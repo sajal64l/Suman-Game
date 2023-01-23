@@ -1,2 +1,3 @@
 # Suman-Game
-game of Mr. Suman Adhikari
+Game made in python
+Featuring Mr. Suman Adhikari
